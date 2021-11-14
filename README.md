@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @markas1128
 - 👀 I’m interested in working at GitHub!
 - 🌱 I’m currently learning HTML & CSS as well as technical writing and marketing.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on technical writing or marketing!
 - 📫 How to reach me - connect on LinkedIn or via my email (if you have it!)
 
 <!---
